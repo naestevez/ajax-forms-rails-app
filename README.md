@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Simple blog app created with ruby/rails
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Open terminal and navigate to root folder ()/blog). Once in root folder and assuming rails is installed, start rails server by typing `rails s` in terminal and in browser, type `localhost:3000/` in address bar to play around with app
